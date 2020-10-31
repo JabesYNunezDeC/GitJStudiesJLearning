@@ -1,5 +1,7 @@
-Thi is  a plain text file. 
+This is  a plain text file. 
 
 Jabes was born in november 22 of 1998 in Dominican Republic... 
 
 Now He is learning how to use Git...
+
+he has a great talent but a lot more ghosts.
