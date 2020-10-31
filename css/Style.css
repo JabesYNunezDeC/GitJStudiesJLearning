@@ -5,6 +5,27 @@
 }
 
 body {
+	color: #616161;
 	text-align: center;
 	font-family:"Arial"; 	
+}
+.container{
+	width:50%;
+	margin:20px  auto;
+}
+
+head {
+ margin-bottom: 20px 60px;
+ padding: 20px;
+ text-align: left;
+ border:solid 1px #616161;
+ width: 100%;
+}
+
+article{
+ color: #000;
+ text-align: justify;
+ padding: 20px;
+ width:100%;
+ 
 }
