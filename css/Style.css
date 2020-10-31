@@ -14,7 +14,7 @@ body {
 	margin:20px  auto;
 }
 
-head {
+.cabezera {
  margin-bottom: 20px 60px;
  padding: 20px;
  text-align: left;
@@ -27,5 +27,5 @@ article{
  text-align: justify;
  padding: 20px;
  width:100%;
- 
+
 }
